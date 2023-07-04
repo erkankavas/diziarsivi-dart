@@ -2,4 +2,4 @@
 
 diziarsivi dart - flutter app
 
-![Simulator Screenshot - iPhone14-ios16 - 2023-07-04 at 20 49 54](https://github.com/erkankavas/diziarsivi-dart/assets/118114166/0fda8ae8-2c4d-4164-87ff-03c12df32839)
+[[https://github-production-user-asset-6210df.s3.amazonaws.com/118114166/250966779-0fda8ae8-2c4d-4164-87ff-03c12df32839.png|width=100px]]
